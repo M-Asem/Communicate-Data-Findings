@@ -3,4 +3,4 @@ This project has two parts that demonstrate the importance and value of data vis
 
 This dataset contains entries about flights data including reasons of delay, flight's time, carrier, distance, origin and destination.
 
-All the data is happening during January 2020.
+All the data happened during January 2020.
